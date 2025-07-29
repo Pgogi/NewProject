@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import practiceProjects1.BaseClass;
+import practiceProjects.p.BaseClass;
 import utils.ScreenshotUtil;
 
 public class TestListener implements ITestListener {

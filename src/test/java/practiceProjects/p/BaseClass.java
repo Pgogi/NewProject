@@ -1,7 +1,10 @@
-package practiceProjects1;
+package practiceProjects.p;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeMethod;
+
+import practiceProjects1.Browser;
+
 import org.testng.annotations.AfterMethod;
 
 

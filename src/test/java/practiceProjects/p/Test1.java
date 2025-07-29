@@ -7,7 +7,6 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import listeners.TestListener;
-import practiceProjects1.BaseClass;
 import practiceProjects1.Login;
 import practiceProjects1.addToCart; 
 
