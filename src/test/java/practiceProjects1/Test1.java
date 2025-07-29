@@ -1,4 +1,4 @@
-package practiceProjects.p;
+package practiceProjects1;
 
 
 import org.testng.Assert;
@@ -7,8 +7,6 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import listeners.TestListener;
-import practiceProjects1.Login;
-import practiceProjects1.addToCart; 
 
 
 @Listeners(TestListener.class)

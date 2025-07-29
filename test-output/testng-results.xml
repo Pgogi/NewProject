@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-29T17:23:09 IST" name="Suite" finished-at="2025-07-29T17:23:41 IST" duration-ms="32120">
+  <suite started-at="2025-07-29T18:02:25 IST" name="Default suite" finished-at="2025-07-29T18:02:56 IST" duration-ms="31404">
     <groups>
     </groups>
-    <test started-at="2025-07-29T17:23:09 IST" name="Test" finished-at="2025-07-29T17:23:41 IST" duration-ms="32120">
-      <class name="practiceProjects.p.Test1">
-        <test-method is-config="true" signature="setup()[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:09 IST" name="setup" finished-at="2025-07-29T17:23:14 IST" duration-ms="4558" status="PASS">
+    <test started-at="2025-07-29T18:02:25 IST" name="Default test" finished-at="2025-07-29T18:02:56 IST" duration-ms="31404">
+      <class name="practiceProjects1.Test1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:25 IST" name="setup" finished-at="2025-07-29T18:02:30 IST" duration-ms="5587" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginPage(java.lang.String,java.lang.String,boolean)[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:14 IST" name="LoginPage" data-provider="LoginData" finished-at="2025-07-29T17:23:16 IST" duration-ms="2906" status="PASS">
+        <test-method signature="LoginPage(java.lang.String,java.lang.String,boolean)[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:30 IST" name="LoginPage" data-provider="LoginData" finished-at="2025-07-29T18:02:33 IST" duration-ms="2668" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,15 +32,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginPage -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:16 IST" name="teardown" finished-at="2025-07-29T17:23:17 IST" duration-ms="207" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:33 IST" name="teardown" finished-at="2025-07-29T18:02:33 IST" duration-ms="198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:17 IST" name="setup" finished-at="2025-07-29T17:23:20 IST" duration-ms="3647" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:33 IST" name="setup" finished-at="2025-07-29T18:02:37 IST" duration-ms="3776" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginPage(java.lang.String,java.lang.String,boolean)[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:20 IST" name="LoginPage" data-provider="LoginData" finished-at="2025-07-29T17:23:35 IST" duration-ms="14433" status="PASS">
+        <test-method signature="LoginPage(java.lang.String,java.lang.String,boolean)[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:37 IST" name="LoginPage" data-provider="LoginData" finished-at="2025-07-29T18:02:49 IST" duration-ms="12471" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,15 +61,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginPage -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:35 IST" name="teardown" finished-at="2025-07-29T17:23:35 IST" duration-ms="240" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:49 IST" name="teardown" finished-at="2025-07-29T18:02:50 IST" duration-ms="188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:35 IST" name="setup" finished-at="2025-07-29T17:23:38 IST" duration-ms="3393" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:50 IST" name="setup" finished-at="2025-07-29T18:02:53 IST" duration-ms="3753" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginPage(java.lang.String,java.lang.String,boolean)[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:38 IST" name="LoginPage" data-provider="LoginData" finished-at="2025-07-29T17:23:41 IST" duration-ms="2506" status="PASS">
+        <test-method signature="LoginPage(java.lang.String,java.lang.String,boolean)[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:53 IST" name="LoginPage" data-provider="LoginData" finished-at="2025-07-29T18:02:56 IST" duration-ms="2449" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -90,11 +90,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginPage -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:practiceProjects.p.Test1@3c9754d8]" started-at="2025-07-29T17:23:41 IST" name="teardown" finished-at="2025-07-29T17:23:41 IST" duration-ms="155" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:practiceProjects1.Test1@77f1baf5]" started-at="2025-07-29T18:02:56 IST" name="teardown" finished-at="2025-07-29T18:02:56 IST" duration-ms="251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- practiceProjects.p.Test1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- practiceProjects1.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
